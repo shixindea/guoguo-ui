@@ -3760,7 +3760,7 @@ function subYears(date, amount) {
   return addYears(date, -amount);
 }
 
-// node_modules/.pnpm/@vuepic+vue-datepicker@8.8.1_vue@3.4.31_typescript@5.5.3_/node_modules/@vuepic/vue-datepicker/dist/vue-datepicker.js
+// node_modules/.pnpm/@vuepic+vue-datepicker@8.8.1_vue@3.4.31/node_modules/@vuepic/vue-datepicker/dist/vue-datepicker.js
 function Et() {
   return openBlock(), createElementBlock(
     "svg",

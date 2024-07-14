@@ -26,7 +26,7 @@ import {
   watchEffect
 } from "./chunk-Q5BS67JP.js";
 
-// node_modules/.pnpm/vitepress@1.3.0_@algolia+client-search@4.24.0_@types+node@20.14.10_async-validator@4.2.5_less_ozlegrlgzznctjpsmizyv3kpr4/node_modules/vitepress/lib/vue-demi.mjs
+// node_modules/.pnpm/vitepress@1.3.0_@algolia+client-search@4.24.0_@types+node@20.14.10_less@4.2.0_qrcode@1.5.3_se_lwzije54wzx3osinlxbdc7ol7e/node_modules/vitepress/lib/vue-demi.mjs
 var isVue2 = false;
 var isVue3 = true;
 function set(target, key, val) {
@@ -46,7 +46,7 @@ function del(target, key) {
   delete target[key];
 }
 
-// node_modules/.pnpm/@vueuse+shared@10.11.0_vue@3.4.31_typescript@5.5.3_/node_modules/@vueuse/shared/index.mjs
+// node_modules/.pnpm/@vueuse+shared@10.11.0_vue@3.4.31/node_modules/@vueuse/shared/index.mjs
 function computedEager(fn, options) {
   var _a;
   const result = shallowRef();
@@ -1665,4 +1665,4 @@ vitepress/lib/vue-demi.mjs:
    * @license MIT
    *)
 */
-//# sourceMappingURL=chunk-CZOVQRIY.js.map
+//# sourceMappingURL=chunk-AP3UST23.js.map
